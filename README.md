@@ -1,5 +1,8 @@
 # Brain Tumor Classification with CNN & Grad-CAM
 
+Kaggle = https://www.kaggle.com/code/beraterolelk/brain-tumor-classification-with-cnn-grad-cam
+
+
 ## 📋 Proje Hakkında
 Bu proje, beyin tümörlerini **glioma, meningioma, pituitary ve no tumor** olmak üzere 4 sınıfta sınıflandırmak için **Convolutional Neural Network (CNN)** kullanmaktadır. Ayrıca modelin hangi bölgeleri dikkate aldığını görselleştirmek için **Grad-CAM** yöntemi uygulanmıştır.
 
